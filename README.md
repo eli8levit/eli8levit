@@ -1,5 +1,4 @@
-### Hi there 👋
-
+# Hi there 👋
 ## Frontend + Design + Music = 🫶🏻
 [More about me](elilevit.co)
 
