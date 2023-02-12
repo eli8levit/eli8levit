@@ -1,5 +1,6 @@
 ### Hi there 👋
 
-I'm Eli
+## Frontend + Design + Music = 🫶🏻
+[More about me](elilevit.co)
 
-![tree drawed in procreate](https://user-images.githubusercontent.com/31045769/218324450-1317cb18-ec58-4fc4-a07d-66a85466af77.png)
+![tree drawed in procreate](https://user-images.githubusercontent.com/31045769/218324556-8e8d8db4-5561-45c4-857f-65dbfb4a17c6.png)
